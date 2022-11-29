@@ -1,4 +1,4 @@
-# Practica 2 - Lenguajes de Programación
+# Práctica 2 - Lenguajes de Programación
 # Integrantes: 
 Evelyn Alejandra Zapata Tobón
 # Descripción: 
